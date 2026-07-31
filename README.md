@@ -46,7 +46,6 @@ Team 7 Summer I 26'
           </ul>
         <li><a href="#Software">Software</a></li>
           <ul>
-            <li><a href="#embedded-systems">Embedded Systems</a></li>
             <li><a href="#how-to-run">How to Run</a></li>
           </ul>
       </ul>
@@ -107,8 +106,11 @@ If we had more time, we would add the remaining nice-to-haves: ringing an alarm 
 
 ### Software
 #### Component List
-| Component | Purpose |
-|---|---|
+| Component | Purpose|
+|------|--------|
+| Arduino Uno Q | On board compute |
+| Servo | To make brush do sweeping motion |
+| Ultrasonic Distance Sensor | To make bot navigate autonomously|
 
 ### How to Run
 
@@ -127,6 +129,8 @@ If we had more time, we would add the remaining nice-to-haves: ringing an alarm 
 ## Video Demo
 <a href= "https://youtube.com">Here CHANGE URL
 
+## FOMO Model
+<a href= "https://studio.edgeimpulse.com/public/1059185/latest">Here 
 
 <!-- Authors -->
 ## Authors
