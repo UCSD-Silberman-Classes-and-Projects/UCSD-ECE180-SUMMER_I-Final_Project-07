@@ -1,7 +1,7 @@
 # UCSD-ECE180-SUMMER_I-Final_Project-07
 
 <div align="center">
-<img src="assets/download.png">
+<img src="assets/logo.png">
 </div>
   
 </body>
