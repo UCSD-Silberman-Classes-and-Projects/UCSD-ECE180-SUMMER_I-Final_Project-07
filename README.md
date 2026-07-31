@@ -91,11 +91,19 @@ If we had more time, we would add the remaining nice-to-haves: ringing an alarm 
 #### Modeled Ourselves
 | Part | CAD Model |
 |------|--------|
+| Uno Q | <a href="assets/U Mount.stl"> Case Mount|
+| Dustbin | <a href="assets/Dustbin.stl"> Extended Dustbin|
+| Brush | <a href="assets/Comb.stl"> Brush|
+| Servo | <a href="assets/Arm.stl"> Servo Arm Connector|
+| Servo | <a href="assets/Hinges.stl"> Hinge to connect Comb and Servo|
+| Ultrasonic Sensor | <a href="assets/Sensor Mount.stl"> Sensor Mount|
+
 
 #### Open Source Parts
 | Part | CAD Model |
 |------|--------|
-| Uno Q U-Mount | <a href="assets/arduino-uno-q-case.3mf"> U-Mount |
+| Uno Q Case | <a href="assets/arduino-uno-q-case.3mf"> Case|
+| Servo | <a href="assets/SG90%20Servo%20Mount.stl"> Mount|
 
 ### Software
 #### Component List
@@ -117,7 +125,7 @@ If we had more time, we would add the remaining nice-to-haves: ringing an alarm 
 
 
 ## Video Demo
-<a href= "https://youtube.com">Here
+<a href= "https://youtube.com">Here CHANGE URL
 
 
 <!-- Authors -->
