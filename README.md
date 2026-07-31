@@ -16,7 +16,7 @@
 
 <h3>ECE 180 Final Project</h3>
 <p>
-Team 7 Summer I
+Team 7 Summer I 26'
 </p>
 
 <img src="assets/download.jpg">
