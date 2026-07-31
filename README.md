@@ -80,7 +80,7 @@ Our initial goal was to build a Roomba-style robot that collects small hazardous
 We successfully built a robot that identifies sharp objects, collects the identified objects, and tracks how many objects are collected so as not to surpass the sweeper's limit, all while navigating spaces independently. We also succeeded in displaying the object count, going beyond our must-haves and hitting one of our nice-to-haves. For object detection, we initially planned to use a YOLO pro nano model but found it too laggy, so we used a FOMO model instead which made slightly quicker inferences.
 
 ### If We Have Another Week...
-If we had more time, we would add the remaining nice-to-haves: ringing an alarm once the sweeper is full, and adding a child/baby mode (for example, one that would pick up Legos). Additionally we would also
+If we had more time, we would add the remaining nice-to-haves: ringing an alarm once the sweeper is full, and adding a child/baby mode (for example, one that would pick up Legos). Additionally we would also try to improve the accuracy of our computer vision model as well as integrate our LED lights fully to help with visibility.
 
 ## Final Project Documentation
 
@@ -95,6 +95,7 @@ If we had more time, we would add the remaining nice-to-haves: ringing an alarm 
 #### Open Source Parts
 | Part | CAD Model |
 |------|--------|
+| Uno Q U-Mount | <a href="assets/arduino-uno-q-case.3mf"> U-Mount |
 
 ### Software
 #### Component List
