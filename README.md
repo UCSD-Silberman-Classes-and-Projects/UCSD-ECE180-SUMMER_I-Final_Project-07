@@ -19,7 +19,7 @@
 Team 7 Summer I
 </p>
 
-<img src="assets/final_car.JPG">
+<img src="assets/download.jpg">
 
 </div>
 
