@@ -72,15 +72,15 @@ Team 7 Summer I 26'
 
 <!-- Original Goals -->
 ### Original Goals
+Our initial goal was to build a Roomba-style robot that collects small hazardous objects (like sharp objects) from a workshop or playroom. Using an Arduino Uno Q with a webcam, the robot would identify sharp objects in its path. Must-have functionality included identifying sharp objects, collecting the identified objects, tracking how many objects were collected so as not to surpass the sweeper's limit, and navigating the space independently. Nice-to-have stretch functionality included ringing an alarm once the sweeper was full, having a child/baby mode (e.g. picking up Legos), and displaying the object count.
 <!--example non visible text here -->
    
 <!-- End Results -->
 ### Goals We Met
-<p>
-
+We successfully built a robot that identifies sharp objects, collects the identified objects, and tracks how many objects are collected so as not to surpass the sweeper's limit, all while navigating spaces independently. We also succeeded in displaying the object count, going beyond our must-haves and hitting one of our nice-to-haves. For object detection, we initially planned to use a YOLO pro nano model but found it too laggy, so we used a FOMO model instead which made slightly quicker inferences.
 
 ### If We Have Another Week...
-
+If we had more time, we would add the remaining nice-to-haves: ringing an alarm once the sweeper is full, and adding a child/baby mode (for example, one that would pick up Legos). Additionally we would also
 
 ## Final Project Documentation
 
@@ -115,10 +115,7 @@ Team 7 Summer I 26'
 ### 3.
 
 
-### 4. Manual driving (optional, host-side)
-
-
-Video Demo
+## Video Demo
 <a href= "https://youtube.com">Here
 
 
