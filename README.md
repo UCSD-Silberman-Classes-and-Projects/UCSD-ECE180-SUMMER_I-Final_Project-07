@@ -177,7 +177,10 @@ Set the mode, save, and hit Run again.
 
 
 ## Final Project Presentation Slides with Video Demos
-<a href= "https://youtube.com/shorts/Sm3MTq7GF2I?feature=share">Here
+<a href= "https://youtube.com/shorts/Sm3MTq7GF2I?feature=share">Robot Navigating Demo
+
+<a href= "https://youtube.com/shorts/Sm3MTq7GF2I?feature=share">Robot Avoiding Non-sharp Object Demo
+
 
 ## FOMO Model
 <a href= "https://studio.edgeimpulse.com/public/1059185/latest">Here 
