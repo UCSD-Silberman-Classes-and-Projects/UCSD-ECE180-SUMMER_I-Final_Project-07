@@ -176,11 +176,17 @@ Set the mode, save, and hit Run again.
   before pasting in a new version, don't paste on top of existing content.
 
 
-## Final Project Presentation Slides with Video Demos
+## Final Project Presentation Slides
+<a href= "https://docs.google.com/presentation/d/1Zw6ZW6a8-33r7sMMGZXmiMXOQ0kt0MH9-cVSyJLGKLM/edit?usp=sharing">Final Project Demonstration Slides
+
+## Video Demos
 <a href= "https://youtube.com/shorts/Sm3MTq7GF2I?feature=share">Robot Navigating Demo
 
 <a href= "https://youtube.com/shorts/Sm3MTq7GF2I?feature=share">Robot Avoiding Non-sharp Object Demo
 
+<a href= "https://youtube.com/shorts/Sm3MTq7GF2I?feature=share">Robot Sweeps Sharp Object Demo
+
+<a href= "https://youtube.com/shorts/Sm3MTq7GF2I?feature=share">Robot Fails to Sweep Sharp Object Demo
 
 ## FOMO Model
 <a href= "https://studio.edgeimpulse.com/public/1059185/latest">Here 
