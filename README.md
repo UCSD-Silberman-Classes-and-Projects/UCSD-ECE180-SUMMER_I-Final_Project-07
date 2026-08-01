@@ -126,6 +126,7 @@ If we had one more week, we would implement a gyro (IMU) to improve direction in
 | 2 JGA25-370 6V DC Motors with Encoders | Allows the robot to navigate with more precision with encoders |
 | Generic 1080P 5V Webcam | Allow AI model to determine identity of objects |
 | USB C Hub | Connects Arduino and Webcam to one another while also providing power from PDB |
+| 3 Cell 12 V Lipo Battery | Provides power to entire robot |
 
 ### Wiring
 | Component | Pin |
