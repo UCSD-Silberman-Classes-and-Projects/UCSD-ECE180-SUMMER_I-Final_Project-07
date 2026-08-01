@@ -149,11 +149,11 @@ If we had one more week, we would implement a gyro (IMU) to improve direction in
 | `TEST_MODE` | What it does |
 |---|---|
 | `"drive"` | Drives forward `TEST_DRIVE_DISTANCE_CM` once, no camera checks |
-| `"turn"` | Turns `TEST_TURN_DEGREES` in place |
-| `"creep"` | One row, in small increments, pausing for the camera between each -- pickup/avoid/obstacle all active |
-| `"creep2"` | Two rows (creep mode) with a turn in between |
+| `"turn"` | Turns `TEST_TURN_DEGREES` in place, no camera checks |
+| `"creep"` | One row, in small increments, pausing for the camera between each -- pickup/avoid/obstacle all active, with camera checks |
+| `"creep2"` | Two rows (creep mode) with a turn in between, with camera checks |
 | `"sweep2"` | Two rows, full continuous speed, **no** camera checks (movement/turn-geometry test only) |
-| `"sweep"` | Full lawnmower coverage of the whole play area |
+| `"sweep"` | Full lawnmower coverage of the whole play area, no camera checks |
 
 Set the mode, save, and hit Run again.
 
