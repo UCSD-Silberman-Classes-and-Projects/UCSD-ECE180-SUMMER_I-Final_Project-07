@@ -139,12 +139,14 @@ If we had one more week, we would implement a gyro (IMU) to improve direction in
 
 ## How to run
 
-1. Open this project in App Lab and hit **Run**.
-2. The app waits `STARTUP_DELAY_SECONDS` (currently 5s) before any movement
+1. Using Encoder Calibration files, run the app to calibrate encoders for first time use. Can skip if already set.
+2. Using Ultrasonic Sensor Testing files, run a few sets measurements of sensor are accurate as this can throw off limits set for wall or furniture detection. Can skip if already checked.
+3. Open this project in App Lab and hit **Run**.
+4. The app waits `STARTUP_DELAY_SECONDS` (currently 5s) before any movement
    starts, giving the camera stream time to come up. Use this window to open
    the WebUI in your browser (it doesn't always auto-pop-up -- see
    Troubleshooting below).
-3. Movement mode is controlled by `TEST_MODE` near the top of `main.py`:
+5. Movement mode is controlled by `TEST_MODE` near the top of `main.py`:
 
 | `TEST_MODE` | What it does |
 |---|---|
@@ -174,6 +176,7 @@ Set the mode, save, and hit Run again.
 - **Sketch fails to compile with "redefinition of ..." errors**: the file
   wasn't fully replaced when pasted -- clear `sketch/sketch.ino` completely
   before pasting in a new version, don't paste on top of existing content.
+- ** Ultrasonic Testing files included if issues come up with sensor.
 
 
 ## Final Project Presentation Slides
