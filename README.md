@@ -141,7 +141,7 @@ If we had one more week, we would implement a gyro (IMU) to improve direction in
 
 1. Using Encoder Calibration files, run the app to calibrate encoders for first time use. Can skip if already set.
 2. Using Ultrasonic Sensor Testing files, run a few sets measurements of sensor are accurate as this can throw off limits set for wall or furniture detection. Can skip if already checked.
-3. Open this project in App Lab and hit **Run**.
+3. Open Autonomous Movement with Cam project in App Lab and hit **Run**.
 4. The app waits `STARTUP_DELAY_SECONDS` (currently 5s) before any movement
    starts, giving the camera stream time to come up. Use this window to open
    the WebUI in your browser (it doesn't always auto-pop-up -- see
